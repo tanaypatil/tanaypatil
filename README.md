@@ -1,4 +1,4 @@
-![Tanay Patil](https://drive.google.com/uc?export=view&id=1Wrpup4YZ4e6_BAHCjdQoMlUFBnxtcvVZ)
+![Tanay Patil](https://drive.google.com/uc?export=view&id=1VpxeSi4SUVNk2_uL5J2kOYlXXtGczo4i)
 > Enthusiastic Software Developer with 2 years of experience in the IT industry. Love solving complex problems and have good command over Data Structures & Algorithms. Work on Fullstack Web Development projects. Life is short, so I prefer Python.
 
 *Yes, I'm on Social media:*
