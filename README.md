@@ -25,7 +25,7 @@ Wanna give me a permanent Software Development job? Get my [***Resume***](https:
 ## Education
 
  - **Visvesvaraya National Institute of Technology(2014-2018)**  
- B.Tech in Computer Science and Engineering
+ B.Tech in Computer Science and Engineering  
  *Subjects: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating System, Computer Networks.
 
 ## Certifications
