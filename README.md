@@ -35,22 +35,22 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
 
 ## Projects
 
- 1. **Nest & Spoon**
+ 1. **Nest & Spoon**  
     *[www.nestandspoon.com](https://nestandspoon.com)* | *Freelance Developer*
    - Designed and developed website for a start-up providing homestays and various other hospitality services in tourist spots across India.
     - Technologies Used - Django, AWS, HTML, CSS, Bootstrap, jQuery.
 
- 2. **Home-In-Abroad**
+ 2. **Home-In-Abroad**  
  *[api.homeinabroad.com](https://api.homeinabroad.com/docs/)* | *Freelance Developer*
  - Developed API for start-up’s website. Technologies Used: Django, AWS
 - Includes JWT authentication and interactive documentation.
 
-3. **Password-Less Authentication Service**
+3. **Password-Less Authentication Service**  
 *College Project*
 - Facilitated password-less authentication for users through one tap on Android app. Developed API for developers to authenticate users on their application using the service.
 - Technologies Used: Django, Java Android Development
 
-4. **Aquabrim Home Appliances Pvt. Ltd.**
+4. **Aquabrim Home Appliances Pvt. Ltd.**  
 *Freelance Developer*
  - *Website  and API*
     - Designed and developed website to facilitate users with various roles to   manage their resources.
@@ -59,7 +59,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
 - *Android Application*
     - [GIT](https://github.com/tanaypatil/aquabrim-app)
 
-5. **NFLM Nertia**
+5. **NFLM Nertia**  
 *Freelance Developer* 
  - Website and API
      - Designed and developed an E-commerce website for the startup.
@@ -69,7 +69,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
     - [Play Store](https://play.google.com/store/apps/details?id=com.developer.tanay.nertia&hl=en) 
     - [GIT](https://github.com/tanaypatil/nertia-app)
 
-6. **Tarri Poha**
+6. **Tarri Poha**  
 [tarripoha.in](http://tarripoha.in/)
  - Photo Album website.
 
