@@ -1,4 +1,4 @@
-![Tanay Patil](https://drive.google.com/uc?export=view&id=1VpxeSi4SUVNk2_uL5J2kOYlXXtGczo4i)
+![Tanay Patil](https://drive.google.com/uc?export=view&id=1BWx307vyjLDtaFCjiLUzX9Q2hjlTyjh1)
 > Enthusiastic Software Developer with 2 years of experience in the IT industry. Love solving complex problems and have good command over Data Structures & Algorithms. Work on Fullstack Web Development projects. Life is short, so I prefer Python.
 
 *Yes, I'm on Social media:*
@@ -26,7 +26,7 @@ Wanna give me a permanent Software Development job? Get my [***Resume***](https:
 
  - **Visvesvaraya National Institute of Technology(2014-2018)**  
  B.Tech in Computer Science and Engineering  
- *Subjects: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating System, Computer Networks.
+ Subjects: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating System, Computer Networks.
 
 ## Certifications
 
