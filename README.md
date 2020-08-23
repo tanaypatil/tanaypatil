@@ -13,7 +13,7 @@ Wanna give me a permanent Software Development job? Get my [***Resume***](https:
 
 ## Work Experience
 
- 1. **BARCLAYS TECHNOLOGY CENTRE INDIA**
+ 1. **BARCLAYS TECHNOLOGY CENTRE INDIA**  
  *Software Developer | 2018-Current*
  - Working in project CONTROL IT - a bank wide exception handling and reporting platform.
 - Developed Email Notification Engine using Python, Django and Mongo DB which resulted in decommissioning of traditional Windows servers & reduced costs.
@@ -24,13 +24,13 @@ Wanna give me a permanent Software Development job? Get my [***Resume***](https:
 
 ## Education
 
- - **Visvesvaraya National Institute of Technology(2014-2018)**
+ - **Visvesvaraya National Institute of Technology(2014-2018)**  
  B.Tech in Computer Science and Engineering
  *Subjects: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating System, Computer Networks.
 
 ## Certifications
 
- - **AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE**
+ - **AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE**  
 Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3-4626-afac-54a8261c7a1e/linked_in_profile)
 
 ## Projects
