@@ -5,13 +5,13 @@
 **Technologies:**
 <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> <img height="44" width="110" src="https://camo.githubusercontent.com/fe0c9ecc354db49a376fa2a68f26bebdc75df14d/68747470733a2f2f6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" />  
 
-Got work for me? Find me on:
+Got work for me? Find me on:  
 [<img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1ayOdrX-DzXqC8ZpYpSKiQg2b58OSfKg4" />](https://www.upwork.com/freelancers/~0177a14dcdaac614ad)  
 
 Wanna give me a permanent Software Development job?  Here's my resume -   
 [<img height="48" width="48" src="https://drive.google.com/uc?export=view&id=1bPE18l5P9c2fHAPkZuFa77hn7RRV5VIy" />](https://drive.google.com/file/d/1NwR8cl5_P1dIHw91jWUeN6jgkVWK6A9X/view?usp=sharing)
 
-*Connect with me:*
+*Connect with me:*  
 [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=10wRO-REAO-o0o-G5TIDStKCBz1IoIXLG" />](https://www.linkedin.com/in/tanay-patil/)   [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1Zhagt7lppuiehZUranew3n29H_M_WbUV" />](https://www.facebook.com/tanay.patil.5205/)
 
 ## <img height="48" width="48" src="https://drive.google.com/uc?export=view&id=1uPDTpP4djPBLWSF7GbM8SQtln0Pd7GUs" /> Work Experience 
