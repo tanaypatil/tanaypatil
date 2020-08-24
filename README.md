@@ -46,7 +46,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
 
  2. **Home-In-Abroad**  
  *[api.homeinabroad.com](https://api.homeinabroad.com/docs/)* | *Freelance Developer  
- <img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1Qwy5I95POTlveMSSsGJxgJJ5nF1zqPZo" />
+     <img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1Qwy5I95POTlveMSSsGJxgJJ5nF1zqPZo" />
  - Developed API for start-up’s website. Technologies Used: Django, AWS
 - Includes JWT authentication and interactive documentation.
 
@@ -68,7 +68,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
 
 5. **NFLM Nertia**  
 *Freelance Developer*  
-<img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1-pONXOkvaUQJIGV3mQVLvF4JvViL743u" />
+    <img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1-pONXOkvaUQJIGV3mQVLvF4JvViL743u" />
  - Website
      - Designed and developed an E-commerce website for the startup.
      - Developed android app for collaboration of salons and stylists.
