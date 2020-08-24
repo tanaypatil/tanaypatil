@@ -73,7 +73,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
      - Designed and developed an E-commerce website for the startup.
      - Developed android app for collaboration of salons and stylists.
      - Technologies used - Django, HTML, CSS, BeautifulSoup, AWS, jQuery, Apache2 server, Android app development(Java)
-- Android Application
+- Android Application  
    [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1keKKrUrlDe6Bel2ZtK7haAxdNR8_fC1i" />](https://play.google.com/store/apps/details?id=com.developer.tanay.nertia&hl=en) [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1ONJsEOPIUkCuoGLZLfVHKItQNK6noLX4" />](https://github.com/tanaypatil/nertia-app)
 
 ## <img height="48" width="48" src="https://drive.google.com/uc?export=view&id=19NujMuLRBIo6HlDvJwldwmXUNdppN4Nk" />Extra-Curricular Activities
@@ -81,7 +81,8 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
  1. **PRESIDENT at AAROHI, VNIT, Nagpur** (*2017-2018*)
   - Laid out the directives and vision for the festival and managed a team of over 250 towards execution of Central India's largest Cultural Festival.
 
-2. **Website & Android Application Developer at Axis, VNIT, Nagpur**  (*2016-2017*) | [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1keKKrUrlDe6Bel2ZtK7haAxdNR8_fC1i" />](https://play.google.com/store/apps/details?id=com.developer.tanaypatil.axis2016&hl=en) | [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1ONJsEOPIUkCuoGLZLfVHKItQNK6noLX4" />](https://github.com/tanaypatil/axis-website)
+2. **Website & Android Application Developer at Axis, VNIT, Nagpur**  (*2016-2017*)  
+[<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1keKKrUrlDe6Bel2ZtK7haAxdNR8_fC1i" />](https://play.google.com/store/apps/details?id=com.developer.tanaypatil.axis2016&hl=en) | [<img height="24" width="24" src="https://drive.google.com/uc?export=view&id=1ONJsEOPIUkCuoGLZLfVHKItQNK6noLX4" />](https://github.com/tanaypatil/axis-website)
  - Responsible for designing and developing website. 
  - Ensured the smooth run of the same during 1 year of handling.
  - Handled complete design and development of Android application.
