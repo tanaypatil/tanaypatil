@@ -2,6 +2,8 @@
 ![Tanay Patil](https://drive.google.com/uc?export=view&id=1BWx307vyjLDtaFCjiLUzX9Q2hjlTyjh1)
 > Enthusiastic Software Developer with 2 years of experience in the IT industry. Love solving complex problems and have good command over Data Structures & Algorithms. Work on Fullstack Web Development projects. Life is short, so I prefer Python.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaypatil" alt="tanaypatil" /> </p>
+
 **Technologies:**  
 <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <img height="44" width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> <img height="44" width="110" src="https://camo.githubusercontent.com/fe0c9ecc354db49a376fa2a68f26bebdc75df14d/68747470733a2f2f6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" />  
 
@@ -21,7 +23,7 @@ Wanna give me a permanent Software Development job?  Here's my resume -
  - Working in project CONTROL IT - a bank wide exception handling and reporting platform.
 - Developed Email Notification Engine using Python, Django and Mongo DB which resulted in decommissioning of traditional Windows servers & reduced costs.
 - Developed REST APIs and micro-services using Django.
-- Drove the AWS migration for CONTROL IT platform with understanding of design, scalability, performance and reliability. Services Used – EC2, ECS, Lambda, API Gateway, RDS, Kinesis.
+- Drove the AWS migration for CONTROL IT platform with understanding of design, scalability, performance and reliability. Services Used â€“ EC2, ECS, Lambda, API Gateway, RDS, Kinesis.
 - Developed and maintained automated CI/CD pipelines for code deployment using Jenkins.
 - Participated in agile ceremonies (user story grooming, sprint planning and sprint retrospective).
 
@@ -34,7 +36,7 @@ Wanna give me a permanent Software Development job?  Here's my resume -
 ## <img height="48" width="48" src="https://drive.google.com/uc?export=view&id=1RFJfZs5SwyLDDgpeiZ1iMmhBca9lpft9" />Certifications
 
  - **AWS CERTIFIED SOLUTIONS ARCHITECT - ASSOCIATE**  
-Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3-4626-afac-54a8261c7a1e/linked_in_profile)
+Issued on â€“ 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3-4626-afac-54a8261c7a1e/linked_in_profile)
 
 ## <img height="48" width="48" src="https://drive.google.com/uc?export=view&id=1Qp1OPhauXLumIJ_WZgVWyp4vAU0grCfx" />Projects
 
@@ -47,7 +49,7 @@ Issued on – 01/02/2020 | [Link](https://www.youracclaim.com/badges/91d79ece-d5e3
  2. **Home-In-Abroad**  
  *[api.homeinabroad.com](https://api.homeinabroad.com/docs/)* | *Freelance Developer  
      <img height="44" width="44" src="https://drive.google.com/uc?export=view&id=1Qwy5I95POTlveMSSsGJxgJJ5nF1zqPZo" />
- - Developed API for start-up’s website. Technologies Used: Django, AWS
+ - Developed API for start-upâ€™s website. Technologies Used: Django, AWS
 - Includes JWT authentication and interactive documentation.
 
 3. **Password-Less Authentication Service**  
