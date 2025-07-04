@@ -1,6 +1,6 @@
 
 ![Tanay Patil](https://drive.google.com/uc?export=view&id=1BWx307vyjLDtaFCjiLUzX9Q2hjlTyjh1)
-> Enthusiastic Software Developer with 2 years of experience in the IT industry. Love solving complex problems and have good command over Data Structures & Algorithms. Work on Fullstack Web Development projects. Life is short, so I prefer Python.
+> Enthusiastic Software Developer with 7 years of experience in the IT industry. Love solving complex problems and have good command over Data Structures & Algorithms. Work on Fullstack Web Development projects. Life is short, so I prefer Python.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaypatil" alt="tanaypatil" /> </p>
 
