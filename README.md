@@ -12,7 +12,8 @@
 
 [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1aec7a8a-f4c0-499b-ae3c-30b6d9fd8827" />
  LinkedIn](https://www.linkedin.com/in/tanay-patil/)  
-[💼 Upwork](https://www.upwork.com/freelancers/~0177a14dcdaac614ad)  
+[💼<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/24606ea5-4eaf-47e4-9d06-3e0434301b4f" />
+ Upwork](https://www.upwork.com/freelancers/~0177a14dcdaac614ad)  
 [📄 Resume](https://drive.google.com/file/d/1SdaBIts1sY1d6H-wO-JRsvLcHxr6YoS9/view?usp=sharing)
 
 ## Education
