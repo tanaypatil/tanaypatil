@@ -22,9 +22,9 @@
 **Cloud/DevOps:** AWS · Jenkins · Docker · Linux  · Azure     
 **Databases:** MongoDB · PostgreSQL · MySQL    
 
-**Find me on:**  
+## **Find me on:**  
 
-[<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1aec7a8a-f4c0-499b-ae3c-30b6d9fd8827" />](https://www.linkedin.com/in/tanay-patil/)  [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/24606ea5-4eaf-47e4-9d06-3e0434301b4f" />](https://www.upwork.com/freelancers/~0177a14dcdaac614ad)  [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ebbfb16e-d22e-44e1-bfdd-f716bf3f6fe8" />
+[<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1aec7a8a-f4c0-499b-ae3c-30b6d9fd8827" />](https://www.linkedin.com/in/tanay-patil/)  [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/24606ea5-4eaf-47e4-9d06-3e0434301b4f" />](https://www.upwork.com/freelancers/~0177a14dcdaac614ad)  Resume [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ebbfb16e-d22e-44e1-bfdd-f716bf3f6fe8" />
 ](https://drive.google.com/file/d/1SdaBIts1sY1d6H-wO-JRsvLcHxr6YoS9/view?usp=sharing)
 
 ## Education
